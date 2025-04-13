@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "f1e86f30d470db9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5463890feb53e1e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4bd69c84558c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Journalism, media, and technology trends and predictions 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Journalism, media, and technology trends and predictions 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5f35f62288427cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cc8f063164a6f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958593353e94ed30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a94daafa839e2cbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed57ea05aac47dfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 516.5
+  },
+  "right": {
+    "id": "891a24e168f5b153",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb88645b1d1cbba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff0eb0386f40112",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/Journalism, media, and technology trends and predictions 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Journalism, media, and technology trends and predictions 2025"
+            }
+          },
+          {
+            "id": "862cd551ade86c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/Journalism, media, and technology trends and predictions 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Journalism, media, and technology trends and predictions 2025"
+            }
+          },
+          {
+            "id": "056f69365e018350",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0c65c00499fec6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/Journalism, media, and technology trends and predictions 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Journalism, media, and technology trends and predictions 2025"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a4bd69c84558c8f",
+  "lastOpenFiles": [
+    "10F/Summaries/Domain impact brief – India's emergence as a third model in technology governance.md",
+    "10F/Summaries/Domain impact brief – China's renewable energy leadership reshapes Eurasian geopolitics.md",
+    "10F/Summaries/Domain impact brief – Competition for Arctic resources intensifies amid climate change.md",
+    "10F/Summaries/Domain impact brief – The emerging global gender ideological divide.md",
+    "10F/Summaries/Domain impact brief – Global fragmentation across key systems.md",
+    "10F/Summaries/Domain impact brief – AI datacenter energy demands and global decarbonization tensions.md",
+    "Summaries/Domain impact brief – AI datacenter energy demands and global decarbonization tensions.md",
+    "Summaries/Domain impact brief – Global fragmentation across key systems.md",
+    "Summaries",
+    "10F/Summaries/gender-divide-global.md",
+    "Clippings/Overview and key findings of the 2024 Digital News Report.md",
+    "Clippings/Journalism, media, and technology trends and predictions 2025.md",
+    "Clippings/EBU chief Truth at risk - defending facts in the 'Intelligent Age'.md",
+    "Clippings/China Builds A New Eurasia.md",
+    "Untitled.canvas",
+    "10F/Clippings/A new global gender divide is emerging.md",
+    "Clippings/Visionary Leaders Of Small Nations.md",
+    "10F/Clippings/Coronapolitics from the Reichstag to the Capitol.md",
+    "10F/Clippings/Diagonalism, the Cosmic Right and the Conspiracy Smoothie.md",
+    "10F/Clippings/The Rise and Fall of the Trad Wife.md",
+    "10F/Clippings/Gen Z and the End of Predictable Progress.md",
+    "10F/Clippings/Informal global leadership can help steady the ship.md",
+    "10F/Clippings/‘Global south’ concept fuels unrealistic aspirations 1.md",
+    "10F/Clippings/Is BRICS offering an alternative model for global governance?.md",
+    "10F/Clippings/What the commercial reach of Chinese technology companies might mean for global AI governance.md",
+    "10F/Clippings/How the war in Ukraine changed Russia’s global standing.md",
+    "Clippings/Foreign Affairs.md",
+    "10F/Clippings/The Role of Middle Powers in Shaping a Multipolar World Order.md",
+    "Clippings",
+    "10F/Summaries",
+    "10F/Clippings",
+    "10F/Scanning",
+    "Scanning"
+  ]
+}

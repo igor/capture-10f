@@ -1,0 +1,63 @@
+---
+title: "What the commercial reach of Chinese technology companies might mean for global AI governance"
+source: "https://eastasiaforum.org/2024/10/09/what-the-commercial-reach-of-chinese-technology-companies-might-mean-for-global-ai-governance/"
+author:
+  - "[[East Asia Forum]]"
+published: 2024-10-09
+created: 2025-04-10
+description: "The growing global reach of Chinese technology firms is expanding the application of AI to include draconian deployments of this emerging technology."
+tags:
+  - "Technology"
+  - "Governance"
+---
+## Authors
+
+China is among the most active players in the global push to govern artificial intelligence (AI). Recent years have seen an [increase](https://asiasociety.org/sites/default/files/2021-11/ASPI_StacktheDeckreport_final.pdf)  in the number of Chinese nationals in the multilateral organisations that set the technical standards governing AI. China is also shaping  [AI-related initiatives](https://www.chinadaily.com.cn/a/202407/03/WS66848c01a31095c51c50bfdf.html)  in the United Nations and issuing  [high-level declarations](http://brisbane.china-consulate.gov.cn/eng/zgxw/202407/t20240704_11448349.htm) about the global principles that it believes should govern this technology.
+
+But rather than these formal measures, the most consequential element of China’s impact on [global AI governance](https://eastasiaforum.org/2024/09/10/chinas-ambitions-for-global-ai-governance/) might end up being the  [growing global market share](https://www.washingtonpost.com/technology/2021/09/21/us-china-tech-competition/) of Chinese technology companies. This commercial penetration is spreading AI use cases that will likely limit the scope of any international agreements governing this technology.
+
+China’s dynamic [innovation ecosystem](https://datagovhub.elliott.gwu.edu/china-ai-strategy/), national support for  [AI development](https://www.cnas.org/publications/reports/understanding-chinas-ai-strategy)  and  [long-term goal](https://english.www.gov.cn/archive/whitepaper/202310/10/content_WS6524b55fc6d0868f4e8e014c.html) of expanding the global commercial reach of its firms have seen Chinese technology companies become both more active players in overseas AI markets and key providers of AI technology transfers and training.
+
+In Saudi Arabia, Chinese technology companies [SenseTime](https://www.biometricupdate.com/202402/sensetime-wins-deals-in-saudi-arabia-in-return-for-investment-in-domestic-firms)  and  [Dahua](https://www.reuters.com/technology/saudi-tech-firm-alat-partner-with-softbank-others-2024-02-20/) are partnering with local enterprises on AI-enabled surveillance projects. SenseTime has also built Saudi Arabia’s first AI supercomputing centre and established the Saudi AI Education Program, which delivers an AI curriculum to Saudi teachers and students.
+
+In Uganda, [Huawei](https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters) and CloudWalk have facilitated the rollout of AI-powered smart city infrastructure and mass facial recognition systems.
+
+As well as using its cloud data centres in South Africa to there, Huawei has set up a [Cloud and AI Innovation Centre](https://www.itweb.co.za/article/huawei-launches-africa-cloudai-innovation-centre/KWEBb7yZyaZMmRjO) at its national headquarters in Johannesburg to transmit AI standards and build talent pipelines.
+
+Similar examples abound in a wide range of other markets in South and Southeast Asia, the Middle East, Eastern Europe and Africa.
+
+Chinese technology companies are growing their market share in part because their offerings are typically [competitively priced](https://www.dw.com/en/western-countries-are-banning-chinese-tech-why-is-it-still-spreading/a-65106709)  and can increase productivity and save money. Some of the applications of Chinese AI technologies include  [increasing the efficiency](https://wired.me/technology/global-smart-city-competition-highlights-chinas-rise-in-ai/) of traffic and public transport systems and simplifying bureaucratic processes.
+
+Although [Chinese-made AI technology](https://eastasiaforum.org/2024/08/27/china-powers-the-future-of-global-ai-innovation/)  has the potential to spur economic growth, it also has much less benign use cases. Many leading Chinese technology companies have, for example, been  [implicated](https://home.treasury.gov/news/press-releases/jy0538) in the use of AI to profile and oppress Uyghurs and other religious and ethnic minorities in China.
+
+There are concerns that Chinese firms are assisting governments to use AI-enabled technologies to monitor citizens and clamp down on dissent, including in [Zimbabwe](https://www.europarl.europa.eu/RegData/etudes/IDAN/2024/754450/EXPO_IDA\(2024\)754450_EN.pdf), [Uganda](https://www.cnbc.com/2019/08/14/huawei-employees-helped-african-governments-spy-on-opponents-wsj.html), [Ecuador](https://foreignpolicy.com/2018/08/09/ecuadors-all-seeing-eye-is-made-in-china/) and .
+
+Given the controversy generated by the use of AI technologies to implement authoritarian policies, it is possible that some governments are not disclosing the full scope of their uses of Chinese AI products. But regardless of the number of such cases, the growing global reach of Chinese technology firms is expanding the range of legitimate AI use cases in many jurisdictions to include the draconian deployment of this technology.
+
+It is [not clear](https://gjia.georgetown.edu/2023/01/20/a-technological-fix-the-adoption-of-chinese-public-security-systems/) that the de facto spread of these use cases is a deliberate play by the Chinese government to have other countries sign up to standards that permit authoritarian applications of AI. Chinese AI companies have their own commercial reasons to grow their global market share and increase the adoption of their technologies. But regardless of whether it’s by Beijing’s design, China stands to benefit from the international spread of its AI firms.
+
+As well as the increased international influence that Beijing is likely to reap thanks to the expanding role of Chinese technology companies in overseas markets, the reach of its firms is normalising China’s preferred AI standards and potentially its approach to governance more generally.
+
+But this does not mean that formal multilateral [processes and institutions](https://www.aspistrategist.org.au/governing-ai-in-the-global-disorder/)  aimed at  [shaping AI governance](https://eastasiaforum.org/2023/12/03/everyone-wins-with-better-asian-ai-governance/)  will be rendered impotent. These de jure efforts to govern AI will probably still influence the development and application of this technology globally. Equally, the spread of China’s AI use cases certainly does not rule out the possibility of jurisdictions like the European Union or the United States shaping formal standards internationally through the  [gravitational pull of their market size](https://www.internationalaffairs.org.au/australianoutlook/can-the-european-union-influence-global-standard-setting-in-ai/).
+
+Yet the impact of such measures — especially those that seek to [embed](https://www.lowyinstitute.org/the-interpreter/china-great-global-ai-governance-divide) liberal democratic norms and rules — is likely to be blunted by the commercial spread of China’s AI standards.
+
+It will likely be impossible, for example, to reach global agreement on prohibiting the use of AI for ethnic profiling when that is one of the use cases for the technology in China and a potentially growing range of markets in which Chinese technology companies operate.
+
+The [appetite](https://www.europarl.europa.eu/RegData/etudes/IDAN/2024/754450/EXPO_IDA\(2024\)754450\(SUM01\)_EN.pdf)  in different jurisdictions for using AI to implement authoritarian policies means that the lack of global agreement on these issues is neither surprising nor necessarily driven by Beijing. At least some of the countries likely to block a global prohibition on using AI for ethnic profiling would presumably take similar positions irrespective of whether they were using Chinese technology. And it is  [not just](https://www.amnesty.org/en/documents/mde15/6701/2023/en/) Chinese technology companies that are normalising authoritarian AI use cases.
+
+The de facto adoption of China’s AI standards also does not mean that global agreement is impossible in all arenas. Despite disagreements over the legitimacy of using AI to ethnically profile populations, there is broad global consensus on a suite of pressing problems. Bar a few rogue actors, [no one wants](http://eng.mod.gov.cn/xb/News_213114/NewsRelease/16270127.html)  AI to democratise the development of new  [biological weapons](https://www.lowyinstitute.org/the-interpreter/managing-risk-pandemics-plagues-age-ai)  or replace human command and control over  [nuclear-armed missiles](https://www.brookings.edu/articles/a-roadmap-for-a-us-china-ai-dialogue/).
+
+Still, the expanding international market share of Chinese technology companies and their AI use cases might make global agreement on a range of governance issues extremely difficult.
+
+*Benjamin Herscovitch is Research Fellow in the School of Regulation and Global Governance at The Australian National University.*
+
+*This work was supported by the Department of Foreign Affairs and Trade (DFAT) under Agreement No. 78366. The views expressed therein are those of the author and not necessarily those of the Australian government or DFAT.*
+
+[https://doi.org/10.59425/eabc.1728511200](https://doi.org/10.59425/eabc.1728511200)
+
+The East Asia Forum office is based in Australia and EAF acknowledges the First Peoples of this land — in Canberra the Ngunnawal and Ngambri people — and recognises their continuous connection to culture, community and Country.
+
+0:00 / 0:00
+
+1.0x
