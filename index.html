@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article to Obsidian</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Article to Obsidian</h1>
+            <p>Save web articles directly to your Obsidian vault</p>
+        </header>
+
+        <main>
+            <form id="captureForm">
+                <div class="form-group">
+                    <label for="articleUrl">Article URL</label>
+                    <input type="url" id="articleUrl" placeholder="https://example.com/article" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="articleTags">Tags (comma separated)</label>
+                    <input type="text" id="articleTags" placeholder="articles, reading, web">
+                </div>
+                
+                <div class="form-group">
+                    <label for="targetFolder">Destination folder (optional)</label>
+                    <input type="text" id="targetFolder" placeholder="Articles/Web Clippings">
+                </div>
+                
+                <button type="submit" id="submitBtn">Save to Obsidian</button>
+            </form>
+
+            <div id="statusMessage" class="status hidden"></div>
+        </main>
+
+        <footer>
+            <p>capture-10f | <a href="https://github.com/yourusername/capture-10f" target="_blank">GitHub</a></p>
+        </footer>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
