@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 # Local Netlify folder
 .netlify
+=======
+.DS_Store
+node_modules/
+.obsidian/
+>>>>>>> 482438814daffa2ae65a45a8ba0917d69927ee60
